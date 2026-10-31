@@ -1,5 +1,8 @@
 # Username Generator
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
+![Dependencies](https://img.shields.io/badge/dependencies-none-brightgreen)
+
 Day 2 of a 100-day lightweight Python project series.
 
 A tiny command-line tool that builds readable usernames from adjective + noun pairs, with optional digits and separators. Uses Python's `secrets` module for picks.
@@ -11,6 +14,14 @@ A tiny command-line tool that builds readable usernames from adjective + noun pa
 - Optional capitalization
 - Unique batch generation (no duplicates in one run)
 - Zero third-party dependencies
+
+## Built with
+
+- **Language:** Python 3.10+
+- **Standard library:** `secrets`, `argparse`
+- No third-party packages
+
+Part of the [daily-code](https://github.com/ashswin-git/daily-code) 100-day series (Day 2).
 
 ## Installation
 
@@ -54,4 +65,4 @@ quiet_maple88
 
 ## License
 
-MIT
+No license file has been added yet.
